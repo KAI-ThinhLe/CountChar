@@ -1,0 +1,14 @@
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\obj\Debug\net8.0\CounChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\obj\Debug\net8.0\CounChar.AssemblyInfoInputs.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\obj\Debug\net8.0\CounChar.AssemblyInfo.cs
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\obj\Debug\net8.0\CounChar.csproj.CoreCompileInputs.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\bin\Debug\net8.0\CounChar.exe
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\bin\Debug\net8.0\CounChar.deps.json
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\bin\Debug\net8.0\CounChar.runtimeconfig.json
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\bin\Debug\net8.0\CounChar.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\bin\Debug\net8.0\CounChar.pdb
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\obj\Debug\net8.0\CounChar.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\obj\Debug\net8.0\refint\CounChar.dll
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\obj\Debug\net8.0\CounChar.pdb
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\obj\Debug\net8.0\CounChar.genruntimeconfig.cache
+D:\C#\CodeGym\BaiTapC#\PhuongThuc\CounChar\obj\Debug\net8.0\ref\CounChar.dll
